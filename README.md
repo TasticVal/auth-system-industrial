@@ -1,2 +1,1 @@
-# auth-system-industrial
-0
+Proyecto de Autenticación de Clientes
